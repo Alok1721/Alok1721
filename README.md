@@ -80,7 +80,7 @@
 ---
 
 ## **🎯 Fun Coding Challenges**
-- ✅ **LeetCode Streak**: ![LeetCode Stats](https://leetcard.jacoblin.cool/alok1721?theme=dark&font=Algerian)  
+- ✅ **LeetCode Streak**: ![LeetCode Stats](https://leetcard.jacoblin.cool/Alok_k_?theme=dark&font=Algerian)  
 - 🏆 **Highest CodeChef Rating:** **1800+**  
 - 🔥 **Solved 500+ DSA problems** on various platforms.  
 
