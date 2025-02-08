@@ -13,14 +13,6 @@
   ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)  
   ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)  
 
-## **🔝 Most Used Languages**
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alok1721&layout=compact&theme=radical)
-
-
-
-## **🔄 Recent GitHub Activity**
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=alok1721&theme=radical)
-
 ---
 ## **🔗 Connect with Me**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alok-kumar-994709285/)  
