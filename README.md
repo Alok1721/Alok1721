@@ -1,9 +1,6 @@
 # Hi 👋, I'm Alok Kumar! 🚀
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/131133604?s=400&u=c6a8dccfc5422cb06f2eb8a3f3ae58e8834fcced&v=4" alt="profile views" />
-</p>
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=alok1721&label=Profile%20Views&color=0e75b6&style=flat" alt="visitor count" />
 </p>
 
